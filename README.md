@@ -1,4 +1,4 @@
 # crud-pacientes-api
-API created with NodeJS and nodemon. Create, Read, Update and Delete of pacients.
+API de Criação, Listagem(Leitura), Edição e Remoção de pacientes de um cadastro desenvolvida em javascript com Node.JS e nodemon.
 
-You can download the insomnia file to test from the folder "insomnia".
+O arquivo para teste no insomnia está disponível na pasta main.
